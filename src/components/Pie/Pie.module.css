@@ -1,0 +1,21 @@
+.pie{
+    background-color: #000;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top: 2px solid blue;
+    margin-top: 15px;;
+
+
+
+}
+.logoContainer{
+    display: flex;
+    flex-direction: row;
+    margin: 22px 10px;
+    justify-content: center;
+    
+    
+}
+
+

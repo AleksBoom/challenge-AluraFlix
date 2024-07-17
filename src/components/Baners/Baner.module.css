@@ -1,0 +1,31 @@
+.mainContainer{
+    width: 100%;
+    background-image: url("./banerMainBack.png");
+    background-repeat: no-repeat;
+    display: flex;
+    height: 700px;
+
+    
+
+}
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 20px;
+    margin-top: 150px;
+
+}
+
+.banerLeft{
+    width: 50%;
+
+
+    
+    
+}
+.titulo{
+    background-color: aqua;
+    color: aliceblue;
+    padding: 5px 5px;
+}

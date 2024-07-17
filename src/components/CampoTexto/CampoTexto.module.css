@@ -1,0 +1,29 @@
+.campoTexto{
+    margin: 24px 0;
+
+}
+
+.campoTextoLabel{
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    display: block;
+    color: white;
+    margin-bottom: 8px;
+
+}
+
+.campoTextoInput{
+    width: 100%;
+    background-color: black;
+    color: azure;
+    padding: 30px 20px;
+    outline-color: white;
+    border: 1px solid blue;
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+
+
+
+}

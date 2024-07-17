@@ -1,0 +1,64 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+        "Categoria": "",
+        "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "video": "https://www.youtube.com/embed/QjOWz9avkg8",
+        "descripcion": "3 mil visualizaciones"
+              
+      },
+      {
+        "id": 2,
+        "titulo": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+        "Categoria": "",
+        "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "video": "https://www.youtube.com/embed/0udk1vXmwkc",
+        "descripcion": "1,5 mil visualizaciones"
+      },
+      {
+        "id": 3,
+        "titulo": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+        "Categoria": "",
+         "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+         "video": "https://www.youtube.com/embed/MXPhyN5t0uQ",
+        "descripcion": "30 mil visualizaciones"
+        
+       
+      },
+      {
+        "id": 4,
+        "titulo": "¿Qué significa ser un Desarrollador Full Stack?",
+        "Categoria": "",
+        "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "video": "https://www.youtube.com/embed/eejIHbOk_uI",
+        "descripcion": "2,5 mil visualizaciones"
+        
+      },
+      {
+        "id": 5,
+        "titulo": "Como utilizar el Display block, inline, inline-block #aluramás",
+        "Categoria": "",
+        "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "video": "https://www.youtube.com/embed/AG2QssLpQzI",
+        "descripcion": "1,2 mil visualizaciones"
+      },
+      {
+        "id": 6,
+        "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+        "Categoria": "",
+        "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "video": "https://www.youtube.com/embed/Z024LSCMqFk",
+        "descripcion": "1,6 mil visualizaciones"
+      },
+      {
+        "id": 7,
+        "titulo": "¿Sabes cómo organizar tu rutina de estudio? Descubre aquí | #aluramás",
+        "Categoria": "",
+        "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "video": "https://www.youtube.com/embed/Nts3P35mHzE",
+        "descripcion": "3,2 mil visualizaciones"
+      }
+       ]
+  }

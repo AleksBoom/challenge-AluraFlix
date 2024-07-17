@@ -1,0 +1,19 @@
+.boton{
+    background-color: black;
+    border-radius: 10px;
+    border: 1px solid white;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    padding: 24px 32px;
+    margin: 32px 10px;
+    cursor: pointer;
+    
+
+
+}
+.boton:hover{
+    color: blue;
+    border: 1px solid blue;
+}

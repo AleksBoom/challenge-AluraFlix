@@ -1,0 +1,15 @@
+.categoria{
+    display: flex;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+h1{
+    padding: 10px 32px;
+    border-radius: 10px;
+    
+}
